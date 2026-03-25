@@ -9,7 +9,7 @@ add_executable(pesandbox
     src/pe_parser.cpp
     src/import_analyzer.cpp
     src/string_extractor.cpp
-    src/entrophy.cpp
+    src/entropy.cpp
     report/report_writer.cpp     
 )
 
